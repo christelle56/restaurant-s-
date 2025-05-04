@@ -50,10 +50,11 @@ After analyzing the data, the recommended top three menu for new store openings 
 
 1.Key Questions( menu_items table)
 
-    there was 32 menu_item
+    there were 32 menu_item 
     
-    italian dishes were the  most  expensive and American dishes were the least expensive 
+    italian dishes were the most expensive and American disahes were the least expensive
     
+
 2. Key Questions( menu_items table)
 
    there were '5370' order made within the date range.
